@@ -6,7 +6,7 @@ o sistema pesa menos de 2 Mb.
 futuramente mais opções serão adicionadas 
 
 # en us
-assistant
+trix is assistant. 
 assistance for old PCs, such as deep cleaning, activating Windows and Office, changing and improving performance and chat. 
 the system weighs less than 2 mb
 more options will be added in the future
