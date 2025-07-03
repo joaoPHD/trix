@@ -13,7 +13,7 @@ caso tenha encontrado alguma falha ou bug, envie um email que em torno de 1 dia 
 acima do windows 10 e alguns windows 7 os sistemas funcionam
 apenas windows por enquanto
 - versão:
-19.0 delta
+20.1 delta
 - projeto:
 começou em 11/12/2024 e foi lançada em 29/06/2025 com uma ideia de automátizar o windows deixando-o mais leve
 - equipe trx:
@@ -56,7 +56,7 @@ If you encounter any issue or bug, send an email — it will be resolved within 
 Works on Windows 10 and above, and on some versions of Windows 7.
 Currently available for Windows only.
 - version:
-19.0 Delta
+20.1 Delta
 - project:
 Started on 12/11/2024 and launched on 06/29/2025 with the goal of automating and lightening the Windows experience.
 - trx team:
