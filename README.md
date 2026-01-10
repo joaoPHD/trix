@@ -18,7 +18,7 @@ caso tenha encontrado alguma falha ou bug, envie um email que em torno de 1 dia 
 windows 10 ou acima
 apenas windows por enquanto
 - versão:
-  24.0 delta
+ delta
 - projeto:
 começou em 11/12/2024 e foi lançada em 29/06/2025 com uma ideia de automátizar o windows deixando-o mais leve
 - equipe trx:
