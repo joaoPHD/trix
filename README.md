@@ -1,5 +1,5 @@
 # como instalar
-- abaixe o arquivo diretamente pelo site ou por https://github.com/joaoPHD/trix/raw/refs/heads/main/atualizacao.zip
+- abaixe o arquivo diretamente pelo site ou por https://github.com/Jheads/trix/raw/refs/heads/main/atualizacao.zip
 - extraia o arquivo "atualizacao.zip" no disco C, abra a pasta trix_cmd, instalação e clique no arquivo bat que estiver presente, após isso espere a instalação ser completada e terminada, ao iniciar o menu a instalação estará completa.
 # trix CMD
 - essa versão da trix, estará sempre na versão beta, delta ou alfa, quaisquer pessoa que instalar estará participando da versão beta gratuitamente 
