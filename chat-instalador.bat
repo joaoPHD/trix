@@ -1,5 +1,7 @@
 #50% da biblioteca foi feita por IA, o resto foi o J
+chcp 65001 
 set "biblioteca=C:\trix_cmd\3\chat-biblioteca"
+mkdir %biblioteca%
 echo Torn: Vale verificar sua seguranca antes de qualquer alteracao. > "%biblioteca%\isso pode ser virus.txt"
 echo Trix: Posso limpar caches e arquivos temporarios com cuidado. > "%biblioteca%\pode limpar o sistema.txt"
 echo Torn: Recomendo confirmar o que sera removido antes de prosseguir. > "%biblioteca%\e seguro limpar.txt"
@@ -154,3 +156,15 @@ echo Trix: Mesmo sendo um sistema, posso manter um papo simples. > "%biblioteca%
 echo Torn: Sou apenas um assistente de texto, nada alem disso. > "%biblioteca%\voce e humano.txt"
 echo Trix: Se voce disser oi, eu respondo e continuo a conversa. > "%biblioteca%\oi.txt"
 echo Torn: Se quiser conversar sem assunto tecnico, tambem posso. > "%biblioteca%\vamos so conversar.txt"
+echo Torn: obrigado! > "%biblioteca%\saude.txt"
+echo Trix: de mim? se for obrigada! > "%biblioteca%\saudade.txt"
+echo Torn: tudo ótimo! > %biblioteca%\bem.txt
+echo Trix: oiii > %biblioteca%\oi.txt
+echo Torn: de queijo? nunca comi, é bom? > %biblioteca%\pao.txt
+echo Tron: o Airiii prefere o de queijo! > "%biblioteca%\pao de queijo.txt"
+echo Trix: epa epa epa, voce sabe de mais > "%biblioteca%\katarina.txt"
+echo Torn: opa! mas esse ai ainda ta na equipe? > "%biblioteca%\jose.txt"
+echo Torn: do bts > %biblioteca%\jimin.txt
+echo Trix: roxo, o J gosta! > %biblioteca%\roxo.txt
+echo Torn: fanta? > %biblioteca%\fanta.txt
+echo Torn: para ajuda envie um email à @usua2947! > "%biblioteca%\suporte.txt"
